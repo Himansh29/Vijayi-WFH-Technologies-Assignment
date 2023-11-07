@@ -69,5 +69,5 @@ To run the project, you can follow these steps:
 
 ## Author
 
-- [Himanshu Bhange]
+- Himanshu Bhange
 
